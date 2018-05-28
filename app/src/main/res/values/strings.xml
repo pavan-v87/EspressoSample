@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EspressoSample</string>
+    <string name="title_activity_basic_list">BasicListActivity</string>
+
+    <string-array name="items_array">
+        <item>Keyboard</item>
+        <item>Mouse</item>
+        <item>RAM</item>
+        <item>Monitor</item>
+        <item>Printer</item>
+        <item>Speakers</item>
+        <item>Track Pad</item>
+        <item>DVD Writer</item>
+        <item>Graphics Card</item>
+        <item>Pen Drive</item>
+    </string-array>
+
+</resources>
